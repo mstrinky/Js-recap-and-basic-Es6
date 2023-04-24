@@ -23,9 +23,9 @@ const doMath = (x,y,z) =>{
 }
 
 // ES6
-let add = (x,y) => x+y;
+// let add = (x,y) => x+y;
 
-// ES5
-function add(x,y){
-    return x+y;
-}
+// // ES5
+// function add(x,y){
+//     return x+y;
+// }
